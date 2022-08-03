@@ -5,16 +5,18 @@
 This is a small program called Employee Manager, which showcases a data structure I created. While the program that tests it is very simple and doesn’t use all the functions, the data structure itself is much more in depth. It mimics a data structure that might be used by a company that wants to monitor employee and customer data, and most of the classes are related to others with inheritance. Here is a small diagram I made showing the different relationships: (with child classes higher than parent classes)
 
 
+```
+           Customer       Employee      (Employee class has Project
+              |              |           and Location class data, which
+       --------------|--------------     is all Customer class has)
+       |         |        |        |
+   Project   Location   Resume   Schedule
+                          |
+                    -------------
+                    |           |
+                 Education    Skills
+```
 
-```        Customer       Employee      (Employee class has Project
-```           |              |           and Location class data, which
-```    --------------|--------------     is all Customer class has)
-```    |         |        |        |
-```Project   Location   Resume   Schedule
-```                       |
-```                 -------------
-```                 |           |
-```              Education    Skills
 
 (Due to time constraints, I wasn’t able to make a graphic which would better explain this relationship)
 

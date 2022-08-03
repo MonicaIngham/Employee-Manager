@@ -1,0 +1,6 @@
+﻿  EmployeeManager.cpp
+C:\Users\Beldorp\source\repos\EmployeeManager\EmployeeManager.cpp(63,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beldorp\source\repos\EmployeeManager\EmployeeManager.cpp(79,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beldorp\source\repos\EmployeeManager\EmployeeManager.cpp(101,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Beldorp\source\repos\EmployeeManager\EmployeeManager.cpp(117,22): warning C4018: '<': signed/unsigned mismatch
+  EmployeeManager.vcxproj -> C:\Users\Beldorp\source\repos\EmployeeManager\Debug\EmployeeManager.exe

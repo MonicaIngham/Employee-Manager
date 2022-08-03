@@ -6,17 +6,15 @@ This is a small program called Employee Manager, which showcases a data structur
 
 
 
-        Customer       Employee      (Employee class has Project
-           |              |           and Location class data, which
-    --------------|--------------     is all Customer class has)
-    |         |        |        |
-Project   Location   Resume   Schedule
-                       |
-                 -------------
-                 |           |
-              Education    Skills
-
-
+```        Customer       Employee      (Employee class has Project
+```           |              |           and Location class data, which
+```    --------------|--------------     is all Customer class has)
+```    |         |        |        |
+```Project   Location   Resume   Schedule
+```                       |
+```                 -------------
+```                 |           |
+```              Education    Skills
 
 (Due to time constraints, I wasn’t able to make a graphic which would better explain this relationship)
 
